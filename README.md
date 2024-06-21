@@ -1,3 +1,3 @@
 # new-repo
-Хелоу
-Айде да добавим нещо
+Hello,
+Readme in English
